@@ -1,0 +1,13 @@
+list1 = [11, -21, 9, 95, -6, -3]
+for num in list1: 
+      
+    if num >= 0: 
+       print(num, end = " ")
+       
+print("\n")       
+list2 = [12, -61, 0, 44, 46, -9]
+      
+for num in list2: 
+      
+    if num >= 0: 
+       print(num, end = " ")       
