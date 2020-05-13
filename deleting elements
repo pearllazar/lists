@@ -1,0 +1,6 @@
+mydict = {"Amla" : 22, "alekhya" : 21, "bala" : 21, "Honey" : 21} 
+print ("The dictionary before deleting element  is : " + str(mydict)) 
+del mydict['bala'] 
+  
+print ("The dictionary after removing element is : " + str(mydict)) 
+  
